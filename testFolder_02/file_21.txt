@@ -1,1 +1,11 @@
-New line in file_21.txt
+EEEEEE
+EEEEE
+EEEE
+EEE
+EE
+G
+FF
+FFF
+FFFF
+FFFFF
+FFFFFF
